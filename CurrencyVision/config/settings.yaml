@@ -1,0 +1,4 @@
+default_country: India
+default_language: en
+camera_index: 0
+confidence_threshold: 0.5

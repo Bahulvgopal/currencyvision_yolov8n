@@ -1,0 +1,17 @@
+en:
+  name: English
+  voice: en
+  detected: "{value} rupees detected"
+  total: "Total amount is {total} rupees"
+
+hi:
+  name: Hindi
+  voice: hi
+  detected: "{value} रुपये मिले"
+  total: "कुल राशि {total} रुपये है"
+
+ml:
+  name: Malayalam
+  voice: ml
+  detected: "{value} രൂപ കണ്ടെത്തി"
+  total: "മൊത്തം തുക {total} രൂപ"

@@ -1,0 +1,18 @@
+India:
+  model: models/india.pt
+  symbol: "₹"
+  notes:
+    INR_1: 1
+    INR_5: 5
+    INR_10: 10
+    INR_20: 20
+    INR_50: 50
+    INR_100: 100
+    INR_200: 200
+    INR_500: 500
+  coins:
+    INR_COIN_1: 1
+    INR_COIN_2: 2
+    INR_COIN_5: 5
+    INR_COIN_10: 10
+    INR_COIN_20: 20

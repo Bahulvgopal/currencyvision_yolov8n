@@ -1,0 +1,19 @@
+path: dataset
+
+train: images/train
+val: images/val
+
+names:
+  0: INR_1
+  1: INR_5
+  2: INR_10
+  3: INR_20
+  4: INR_50
+  5: INR_100
+  6: INR_200
+  7: INR_500
+  8: INR_COIN_1
+  9: INR_COIN_2
+  10: INR_COIN_5
+  11: INR_COIN_10
+  12: INR_COIN_20
